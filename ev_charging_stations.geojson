@@ -1,0 +1,3938 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [73.837222, 15.510472]
+			},
+			"properties": {
+				"address": "EESL EDC Parking Goa",
+				"city": "Goa",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "15.5104722",
+				"longitude": "73.8372222",
+				"name": "EESL Legislative Assembly Goa",
+				"notes": "",
+				"phones": "",
+				"pincode": "403503",
+				"pricing": "free",
+				"state": "Goa",
+				"stationid": "1",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.244324, 28.547217]
+			},
+			"properties": {
+				"address": "SDMC Parking, R Block, GK-1, DELHI-110016",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.547217",
+				"longitude": "77.244324",
+				"name": "EESL R block GK1",
+				"notes": "",
+				"phones": "",
+				"pincode": "110016",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "2",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.19711, 28.546273]
+			},
+			"properties": {
+				"address": "SDMC Parking, SDA Market, Hauz Khas, New Delhi, Delhi 110016",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.546273",
+				"longitude": "77.19711",
+				"name": "EESL SDA market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110016",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "3",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.362725, 28.608947]
+			},
+			"properties": {
+				"address": "Near Tata Advance Systems, sector- 59, Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.608947",
+				"longitude": "77.362725",
+				"name": "EESL Tata Advance Systems Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "4",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.090957, 28.55875]
+			},
+			"properties": {
+				"address": "EESL Feroze Gandhi Road, Lajpat Nagar, SDMC parking New 10",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5587496",
+				"longitude": "77.0909566",
+				"name": "EESL Feroze Gandhi Road Lajpat Nagar",
+				"notes": "",
+				"phones": "",
+				"pincode": "110024",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "5",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.158809, 28.558008]
+			},
+			"properties": {
+				"address": "EESL PVR Priya Vasant Vihar, SDMC parking New Delhi, Near Gold's Gym",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5580077",
+				"longitude": "77.1588093",
+				"name": "EESL PVR Priya Delhi",
+				"notes": "",
+				"phones": "",
+				"pincode": "110057",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "6",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.166632, 28.602653]
+			},
+			"properties": {
+				"address": "EESL Meharchand Double Storey Market, SDMC parking New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6026531",
+				"longitude": "77.1666318",
+				"name": "EESL Meharchand Double Storey Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "7",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.912456, 8.481159]
+			},
+			"properties": {
+				"address": "Sanghumukham DTPC office, Shanghumukham beach, thiruvananthapuram,Kerala- 605007",
+				"city": "Thiruvananthapuram",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "8.481159",
+				"longitude": "76.912456",
+				"name": "ANERT-EESL Sangamukham Kerala",
+				"notes": "",
+				"phones": "",
+				"pincode": "605007",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "8",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.957296, 8.492775]
+			},
+			"properties": {
+				"address": "State Council For Child Welfare, CV Raman Pillai Rd, Near Kerala, Housing Board, Thycaud, Thiruvananthapuram, Kerala 695014",
+				"city": "Thiruvananthapuram",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "8.4927752",
+				"longitude": "76.9572956",
+				"name": "ANERT-EESL Thycaud Kerala",
+				"notes": "",
+				"phones": "",
+				"pincode": "695014",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "9",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.090957, 28.558484]
+			},
+			"properties": {
+				"address": "EESL Veer Savarkar Marg, Lajpat Nagar, SDMC parking New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5584839",
+				"longitude": "77.0909568",
+				"name": "EESL Veer Savarkar Marg, Lajpat Nagar",
+				"notes": "",
+				"phones": "",
+				"pincode": "110024",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "10",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.834874, 30.695929]
+			},
+			"properties": {
+				"address": "HAREDA, Akshay Urja Bhawan , Institutional plot No.1 Sector-17 Panchkula , 134109 Haryana",
+				"city": "Panchkula",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "30.695929",
+				"longitude": "76.834874",
+				"name": "HAREDA EESL Panchkula",
+				"notes": "",
+				"phones": "",
+				"pincode": "134109",
+				"pricing": "free",
+				"state": "Haryana",
+				"stationid": "11",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.834874, 30.695929]
+			},
+			"properties": {
+				"address": "HAREDA, Akshay Urja Bhawan , Institutional plot No.1 Sector-17 Panchkula , 134109 Haryana",
+				"city": "Panchkula",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "30.695929",
+				"longitude": "76.834874",
+				"name": "HAREDA EESL Panchkula",
+				"notes": "",
+				"phones": "",
+				"pincode": "134109",
+				"pricing": "free",
+				"state": "Haryana",
+				"stationid": "12",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [88.4729, 22.594] },
+			"properties": {
+				"address": "ECO Park,Gate No1,West Bengal:700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.594",
+				"longitude": "88.4729",
+				"name": "\u00a0EESL ECO Park Gate No 1 New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "13",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [88.4729, 22.594] },
+			"properties": {
+				"address": "ECO Park,Gate No1,West Bengal:700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.594",
+				"longitude": "88.4729",
+				"name": "\u00a0EESL ECO Park Gate No 1 New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "14",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.468765, 22.579155]
+			},
+			"properties": {
+				"address": "\u00a0EESL Biswa Bangla Gate Rotary, Kolkata West Bengal",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5791553",
+				"longitude": "88.4687647",
+				"name": "\u00a0EESL Biswa Bangla Gate Rotary",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "15",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.285359, 13.088249]
+			},
+			"properties": {
+				"address": "Near  Shapoorji Bus Terminus Newtown Kolkata",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.088249",
+				"longitude": "80.285359",
+				"name": "EESL Shapoorji Bus Terminus Newtown",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "16",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.285359, 13.088249]
+			},
+			"properties": {
+				"address": "High Court Metro Station Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.088249",
+				"longitude": "80.285359",
+				"name": "EESL Adhoc New Central, HPCL, New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "17",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.261538, 13.079097]
+			},
+			"properties": {
+				"address": " Chennai Egmore metro, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.079097",
+				"longitude": "80.261538",
+				"name": "EESL Shapoorji Bus Terminus Newtown",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "18",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.261538, 13.079097]
+			},
+			"properties": {
+				"address": " Chennai Egmore metro, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.079097",
+				"longitude": "80.261538",
+				"name": "EESL Chennai Egmore metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "19",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [80.2282, 13.0237] },
+			"properties": {
+				"address": "Saidapet Metro station",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.0237",
+				"longitude": "80.2282",
+				"name": "EESL Saidapet Metro station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "20",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [80.2282, 13.0237] },
+			"properties": {
+				"address": "Saidapet Metro station",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.0237",
+				"longitude": "80.2282",
+				"name": "EESL Saidapet Metro station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "21",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [80.2282, 13.0237] },
+			"properties": {
+				"address": "Saidapet Metro station",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.0237",
+				"longitude": "80.2282",
+				"name": "EESL Saidapet Metro station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "22",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [80.2016, 13.0853] },
+			"properties": {
+				"address": "Tirumangalam Metro station",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.0853",
+				"longitude": "80.2016",
+				"name": "EESL Tirumangalam Metro station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "23",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [80.2016, 13.0853] },
+			"properties": {
+				"address": "Tirumangalam Metro station",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.0853",
+				"longitude": "80.2016",
+				"name": "EESL Thirumangalam Metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "24",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [80.2016, 13.0853] },
+			"properties": {
+				"address": "Tirumangalam Metro station",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.0853",
+				"longitude": "80.2016",
+				"name": "EESL Tirumangalam Metro station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "25",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.232732, 28.556608]
+			},
+			"properties": {
+				"address": "EESL N-Block GK-1, SDMC parking New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.556608",
+				"longitude": "77.232732",
+				"name": "EESL Alandur metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "110048",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "26",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.27777, 9.977164]
+			},
+			"properties": {
+				"address": "KTDC Tourist Reception Centre Shanmugham road, Ernakulam, Marine drive, Kochi Kerala-682031",
+				"city": "Ernakulam",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "9.977164",
+				"longitude": "76.27777",
+				"name": "EESL Chennai Egmore metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "682031",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "27",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [88.5169, 22.5695] },
+			"properties": {
+				"address": "Near  Shapoorji Bus Terminus Newtown Kolkata",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5695",
+				"longitude": "88.5169",
+				"name": "EESL Shapoorji Bus Terminus Newtown",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "28",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.363595, 28.582421]
+			},
+			"properties": {
+				"address": "Side parking of HCL building, sector-8, Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.582421",
+				"longitude": "77.3635947",
+				"name": "EESL Adhoc New Central, HPCL, New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "29",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.358765, 28.577319]
+			},
+			"properties": {
+				"address": "In front of affinity salon, sector- 51, Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.577319",
+				"longitude": "77.3587651",
+				"name": "EESL Shapoorji Bus Terminus Newtown",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "30",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [76.3352, 9.63628] },
+			"properties": {
+				"address": "KTDC Tourist Reception Centre Shanmugham road, Ernakulam, Marine drive, Kochi Kerala-682031",
+				"city": "Muriyil",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "9.63628",
+				"longitude": "76.3352",
+				"name": "EESL Koyambedu",
+				"notes": "",
+				"phones": "",
+				"pincode": "682031",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "31",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.313754, 28.584276]
+			},
+			"properties": {
+				"address": "Opp C-101 Jain air travels, sector-2, Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5842756",
+				"longitude": "77.3137535",
+				"name": "EESL Anna Nagar East Station",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "32",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.466368, 22.617907]
+			},
+			"properties": {
+				"address": "Near Adhoc New Central, HPCL, New Town, Kolkata",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.617907",
+				"longitude": "88.466368",
+				"name": "EESL Adhoc New Central, HPCL, New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "33",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [81.788547, 21.163948]
+			},
+			"properties": {
+				"address": "NRANVP, PARYAVAS BHAWAN, NORTH BLOCK, SECTOR 19, NAYA RAYPUR MARG, ATAL NAGAR RAIPUR",
+				"city": "Raipur",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "21.163948",
+				"longitude": "81.788547",
+				"name": "EESL Prayas Bhawan Nava Raipur",
+				"notes": "",
+				"phones": "",
+				"pincode": "492101",
+				"pricing": "free",
+				"state": "Chhattisgarh",
+				"stationid": "34",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [81.796858, 21.161505]
+			},
+			"properties": {
+				"address": "CBD\nMantraly NAVA RAIPUR , ATAL NAGAR RAIPUR DIST. 492101 Chhatisgarh",
+				"city": "Raipur",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "21.161505",
+				"longitude": "81.796858",
+				"name": "EESL Mantraly Naya Raipur",
+				"notes": "",
+				"phones": "",
+				"pincode": "492101",
+				"pricing": "free",
+				"state": "Chhattisgarh",
+				"stationid": "35",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.340825, 28.572648]
+			},
+			"properties": {
+				"address": "Between kirti mann plaza and NMC hospital Sector 30 Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5726478",
+				"longitude": "77.3408251",
+				"name": "EESL Prayas Bhawan Nava Raipur",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "36",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.340825, 28.572648]
+			},
+			"properties": {
+				"address": "Between kirti mann plaza and NMC hospital Sector 30 Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5726478",
+				"longitude": "77.3408251",
+				"name": "EESL Mantraly Naya Raipur",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "37",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [88.5169, 22.5695] },
+			"properties": {
+				"address": "Near Shapoorji Bus Terminus Newtown Kolkata",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5695",
+				"longitude": "88.5169",
+				"name": "EESL Shapoorji Bus Terminus Newtown",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "38",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.335302, 28.567021]
+			},
+			"properties": {
+				"address": "Ganga Shopping Complex, Sector 29, Noida, Uttar Pradesh 201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5670208",
+				"longitude": "77.3353024",
+				"name": "EESL Shenoy Nagar Metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "39",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.335302, 28.567021]
+			},
+			"properties": {
+				"address": "Ganga Shopping Complex, Sector 29, Noida, Uttar Pradesh 201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5670208",
+				"longitude": "77.3353024",
+				"name": "EESL Pachaiyappa",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "40",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.357335, 28.605747]
+			},
+			"properties": {
+				"address": "Opp Sasta Sundar Hospital Sector 58 Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6057471",
+				"longitude": "77.3573349",
+				"name": "EESL Pachaiyappa",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "41",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.340825, 28.572648]
+			},
+			"properties": {
+				"address": "Between kirti mann plaza and NMC hospital Sector 30 Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5726478",
+				"longitude": "77.3408251",
+				"name": "EESL Kirti Mann Plaza Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "42",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.410881, 28.50002]
+			},
+			"properties": {
+				"address": "Sector 142, Noida, Uttar Pradesh, 201305",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5000204",
+				"longitude": "77.4108813",
+				"name": "EESL Adwant Chowk Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201305",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "43",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.312844, 28.582607]
+			},
+			"properties": {
+				"address": "Sector 15, Nithari, Noida, Dadri, Gautam Buddha Nagar, Uttar Pradesh, 201301, India",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5826069",
+				"longitude": "77.3128436",
+				"name": "EESL Alka Cinema Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "44",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.35208, 28.588005]
+			},
+			"properties": {
+				"address": "Near RTO OfficeSector 33A, Noida, Ghaziabad, Uttar Pradesh, 201301, India",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5880051",
+				"longitude": "77.3520796",
+				"name": "EESL RTO Office Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "45",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.201548, 13.003498]
+			},
+			"properties": {
+				"address": "Chennai Metro Alandur station Car parking area, Alandur, Chennai 600016",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.003498",
+				"longitude": "80.201548",
+				"name": "EESL Alandur metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "46",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.335302, 28.567021]
+			},
+			"properties": {
+				"address": "Ganga Shopping Complex, Sector 29, Noida, Uttar Pradesh 201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5670208",
+				"longitude": "77.3353024",
+				"name": "EESL Ganga Shopping Complex Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "47",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.327259, 28.544704]
+			},
+			"properties": {
+				"address": "road between sector 124 & 125 and beside SPCl Sector Road, Noida, Uttar Pradesh, 201313",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5447044",
+				"longitude": "77.3272594",
+				"name": "EESL SPCI Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201313",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "48",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.261538, 13.079097]
+			},
+			"properties": {
+				"address": "Chennai Egmore metro, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.079097",
+				"longitude": "80.261538",
+				"name": "EESL Chennai Egmore metro",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "49",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.244324, 28.547217]
+			},
+			"properties": {
+				"address": "SDMC Parking, R Block, GK-1, DELHI-110016",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.547217",
+				"longitude": "77.244324",
+				"name": "EESL R block GK1",
+				"notes": "",
+				"phones": "",
+				"pincode": "110016",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "50",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.19711, 28.546273]
+			},
+			"properties": {
+				"address": "SDMC Parking, SDA Market, Hauz Khas, New Delhi, Delhi 110016",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.546273",
+				"longitude": "77.19711",
+				"name": "EESL SDA market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110016",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "51",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.19631, 28.558938]
+			},
+			"properties": {
+				"address": "SDMC Parking, B6, Safderjung Enclave",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.558938",
+				"longitude": "77.19631",
+				"name": "EESL Safderjung Enclave",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "52",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.450823, 22.578588]
+			},
+			"properties": {
+				"address": "Near Tank No 3, Opp Goutams, Street Number 24,Sub Central Business District Action Area 1, Action Area I, Newtown West Bengal 700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5785885",
+				"longitude": "88.4508228",
+				"name": "EESL New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "53",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.450823, 22.578588]
+			},
+			"properties": {
+				"address": "Near Tank No 3, Opp Goutams, Street Number 24,Sub Central Business District Action Area 1, Action Area I, Newtown West Bengal 700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5785885",
+				"longitude": "88.4508228",
+				"name": "EESL New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "54",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.454712, 22.585248]
+			},
+			"properties": {
+				"address": "NKDA New Town Business Club Parking Lot, AE Block(Newtown), Newtown, West Bengal 700059",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5852479",
+				"longitude": "88.4547116",
+				"name": "EESL Business Club New Town ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700059",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "55",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.454712, 22.585248]
+			},
+			"properties": {
+				"address": "NKDA New Town Business Club Parking Lot, AE Block(Newtown), Newtown, West Bengal 700059",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.5852479",
+				"longitude": "88.4547116",
+				"name": "EESL Business Club New Town ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700059",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "56",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.466586, 22.611245]
+			},
+			"properties": {
+				"address": "Parking Lot, 7 Wonders, Gate No 4, Eco Park Entry Plaza, AA IIB, Newtown, Kolkata, West Bengal 700135",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.611245",
+				"longitude": "88.466586",
+				"name": "EESL Gate no 4 Eco Park New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700135",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "57",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.466586, 22.611245]
+			},
+			"properties": {
+				"address": "Parking Lot, 7 Wonders, Gate No 4, Eco Park Entry Plaza, AA IIB, Newtown, Kolkata, West Bengal 700135",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.611245",
+				"longitude": "88.466586",
+				"name": "EESL Gate no 4 Eco Park New Town",
+				"notes": "",
+				"phones": "",
+				"pincode": "700135",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "58",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.463918, 22.607778]
+			},
+			"properties": {
+				"address": "Parking Lot Golf Club, Gate no. 6, Ecopark, Deshbandhu Nagar, Rekjuani, West Bengal 700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.607778",
+				"longitude": "88.463918",
+				"name": "EESL Gate No 6 Eco Park New Town ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "59",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.463918, 22.607778]
+			},
+			"properties": {
+				"address": "Parking Lot Golf Club, Gate no. 6, Ecopark, Deshbandhu Nagar, Rekjuani, West Bengal 700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.607778",
+				"longitude": "88.463918",
+				"name": "EESL Gate No 6 Eco Park New Town ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "60",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.478575, 22.577346]
+			},
+			"properties": {
+				"address": "NKDA Parking Lot, Beside Tata Memorial Cancer Hospital , 14, MAR(E-W), DH Block(Newtown), Action Area I, Newtown, Kolkata, West Bengal 700160",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.577346",
+				"longitude": "88.478575",
+				"name": "EESL Tata Memorial Cancer Hospital ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700160",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "61",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.478575, 22.577346]
+			},
+			"properties": {
+				"address": "NKDA Parking Lot, Beside Tata Memorial Cancer Hospital , 14, MAR(E-W), DH Block(Newtown), Action Area I, Newtown, Kolkata, West Bengal 700160",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.577346",
+				"longitude": "88.478575",
+				"name": "EESL Tata Memorial Cancer Hospital ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700160",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "62",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.460325, 22.579022]
+			},
+			"properties": {
+				"address": "NKDA Parking Lot, Beside Axis Mall, CF Block Newtown, Action Area 1C, Newtown, Kolkata, West Bengal 700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.579022",
+				"longitude": "88.460325",
+				"name": "EESL Axis Mall ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "63",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [88.460325, 22.579022]
+			},
+			"properties": {
+				"address": "NKDA Parking Lot, Beside Axis Mall, CF Block Newtown, Action Area 1C, Newtown, Kolkata, West Bengal 700156",
+				"city": "Kolkata",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "22.579022",
+				"longitude": "88.460325",
+				"name": "EESL Axis Mall ",
+				"notes": "",
+				"phones": "",
+				"pincode": "700156",
+				"pricing": "free",
+				"state": "West Bengal",
+				"stationid": "64",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.203279, 28.552074]
+			},
+			"properties": {
+				"address": "SDMC Parking, Aurbindo Market Place,Hauz Khas, New Delhi, Delhi 110016",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.552074",
+				"longitude": "77.203279",
+				"name": "EESL Aurbindo Market place",
+				"notes": "",
+				"phones": "",
+				"pincode": "110016",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "65",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.359812, 28.570429]
+			},
+			"properties": {
+				"address": "Noida Authority Parking at Central Market, Sector-50, Noida-201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5704287",
+				"longitude": "77.3598121",
+				"name": "EESL Sector 50 Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "66",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.359812, 28.570429]
+			},
+			"properties": {
+				"address": "Noida Authority Parking at Central Market, Sector-50, Noida-201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5704287",
+				"longitude": "77.3598121",
+				"name": "EESL Sector 50 Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "67",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.359812, 28.570429]
+			},
+			"properties": {
+				"address": "Noida Authority Parking at Central Market, Sector-50, Noida-201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5704287",
+				"longitude": "77.3598121",
+				"name": "EESL Sector 50 Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "68",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.568071, 13.152457]
+			},
+			"properties": {
+				"address": "Datta Digambar HPCL Service station, Yelahanka, Bangalore",
+				"city": "Bangalore",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.152457",
+				"longitude": "77.568071",
+				"name": "EESL Yelahanka Bengaluru",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Karnataka",
+				"stationid": "69",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.180556, 28.595833]
+			},
+			"properties": {
+				"address": "Susma Swaraj Bhawan, MEA, New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5958333",
+				"longitude": "77.1805556",
+				"name": "\u00a0EESL Sushma Swaraj Bhawan",
+				"notes": "",
+				"phones": "",
+				"pincode": "110011",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "70",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.158809, 28.558008]
+			},
+			"properties": {
+				"address": "EESL PVR Priya Vasant Vihar, SDMC parking New Delhi, Near Plot 7",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5580077",
+				"longitude": "77.1588093",
+				"name": "EESL PVR Priya Delhi",
+				"notes": "",
+				"phones": "",
+				"pincode": "110057",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "71",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.27777, 9.977164]
+			},
+			"properties": {
+				"address": "State Council For Child Welfare, CV Raman Pillai Rd, Near Kerala, Housing Board, Thycaud, Thiruvananthapuram, Kerala 695014",
+				"city": "Ernakulam",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "9.977164",
+				"longitude": "76.27777",
+				"name": "ANERT-EESL Ernakulam Kerala",
+				"notes": "",
+				"phones": "",
+				"pincode": "695014",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "72",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.912456, 8.481159]
+			},
+			"properties": {
+				"address": "Shanghumukham DTPC office, Shanghumukham beach, thiruvananthapuram,Kerala- 605007",
+				"city": "Shanghumukham",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "8.481159",
+				"longitude": "76.912456",
+				"name": "ANERT-EESL Sangamukham Kerala",
+				"notes": "",
+				"phones": "",
+				"pincode": "691583",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "73",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [76.957296, 8.492775]
+			},
+			"properties": {
+				"address": "Take a Break, NH 66,  Chavara, Kollam- 691583",
+				"city": "Thiruvananthapuram",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "8.4927752",
+				"longitude": "76.9572956",
+				"name": "ANERT-EESL Thycaud Kerala",
+				"notes": "",
+				"phones": "",
+				"pincode": "691583",
+				"pricing": "free",
+				"state": "Kerala",
+				"stationid": "74",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.362711, 28.597105]
+			},
+			"properties": {
+				"address": "Sector 61 Opposite Shopprix Mall , Noida, Uttar Pradesh, 201305",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5971047",
+				"longitude": "77.3627113",
+				"name": "EESL Shopprix Mall Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201305",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "75",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.208693, 28.531006]
+			},
+			"properties": {
+				"address": "EESL J-Block, Malviya Nagar, parking New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.531006",
+				"longitude": "77.208693",
+				"name": "EESL Malviya Nagar Delhi",
+				"notes": "",
+				"phones": "",
+				"pincode": "110017",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "76",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.208693, 28.531006]
+			},
+			"properties": {
+				"address": "EESL J-Block, Malviya Nagar, parking New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.531006",
+				"longitude": "77.208693",
+				"name": "EESL Malviya Nagar Delhi",
+				"notes": "",
+				"phones": "",
+				"pincode": "110017",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "77",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.285359, 13.088249]
+			},
+			"properties": {
+				"address": "High Court Metro Station Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.088249",
+				"longitude": "80.285359",
+				"name": "EESL High court station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "78",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.285359, 13.088249]
+			},
+			"properties": {
+				"address": "High Court Metro Station Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.088249",
+				"longitude": "80.285359",
+				"name": "EESL High court station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "79",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.195354, 13.074043]
+			},
+			"properties": {
+				"address": "Koyam Bedu Metro Station, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.074043",
+				"longitude": "80.195354",
+				"name": "EESL Koyambedu",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "80",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.195354, 13.074043]
+			},
+			"properties": {
+				"address": "Koyam Bedu Metro Station, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.074043",
+				"longitude": "80.195354",
+				"name": "EESL Koyambedu",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "81",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.219897, 13.084713]
+			},
+			"properties": {
+				"address": "Anna Nagar East Metro Station, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.084713",
+				"longitude": "80.219897",
+				"name": "EESL Anna Nagar East Station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "82",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.219897, 13.084713]
+			},
+			"properties": {
+				"address": "Anna Nagar East Metro Station, Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.084713",
+				"longitude": "80.219897",
+				"name": "EESL Anna Nagar East Station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "83",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.375142, 28.626475]
+			},
+			"properties": {
+				"address": "Electronic City , Metro Station parking gate no.2, Noida - 201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.626475",
+				"longitude": "77.375142",
+				"name": "EESL Electronic City Metro Station",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "84",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.375303, 28.628915]
+			},
+			"properties": {
+				"address": "H Block market, Haldiram, Car parking , Sector - 63 , Noida - 201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.628915",
+				"longitude": "77.375303",
+				"name": "EESL H-Block Market, Haldiram",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "85",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.241923, 13.031759]
+			},
+			"properties": {
+				"address": "Nandanam Metro station Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.031759",
+				"longitude": "80.241923",
+				"name": "Chennai Metro Nandanam Station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "86",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.241923, 13.031759]
+			},
+			"properties": {
+				"address": "Nandanam Metro station Chennai (CMRL)",
+				"city": "Chennai",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "13.031759",
+				"longitude": "80.241923",
+				"name": "Chennai Metro Nandanam Station",
+				"notes": "",
+				"phones": "",
+				"pincode": "0",
+				"pricing": "free",
+				"state": "Tamil Nadu",
+				"stationid": "87",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [79.063623, 21.087013]
+			},
+			"properties": {
+				"address": "Nagpur Airport Metro Station, Nagpur",
+				"city": "Nagpur",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "21.0870127",
+				"longitude": "79.0636227",
+				"name": "EESL Nagpur",
+				"notes": "",
+				"phones": "",
+				"pincode": "440005",
+				"pricing": "free",
+				"state": "Maharashtra",
+				"stationid": "88",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [79.063623, 21.087013]
+			},
+			"properties": {
+				"address": "Nagpur Airport Metro Station, Nagpur",
+				"city": "Nagpur",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "21.0870127",
+				"longitude": "79.0636227",
+				"name": "EESL Nagpur",
+				"notes": "",
+				"phones": "",
+				"pincode": "440005",
+				"pricing": "free",
+				"state": "Maharashtra",
+				"stationid": "89",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.317483, 28.578614]
+			},
+			"properties": {
+				"address": "Noida Authority Parking, near metro station, sector-16, Noida-201301",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.578614",
+				"longitude": "77.317483",
+				"name": "EESL Sector 16 Near Metro Station Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "90",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [81.788547, 21.163948]
+			},
+			"properties": {
+				"address": "NRANVP, PARYAVAS BHAWAN, NORTH BLOCK, SECTOR 19, NAYA RAYPUR MARG, ATAL NAGAR RAIPUR",
+				"city": "Raipur",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "21.163948",
+				"longitude": "81.788547",
+				"name": "EESL Prayas Bhawan Nava Raipur",
+				"notes": "",
+				"phones": "",
+				"pincode": "492101",
+				"pricing": "free",
+				"state": "Chhattisgarh",
+				"stationid": "91",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [81.796858, 21.161505]
+			},
+			"properties": {
+				"address": "CBD\nMantraly NAVA RAIPUR , ATAL NAGAR RAIPUR DIST. 492101 Chhatisgarh",
+				"city": "Raipur",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "21.161505",
+				"longitude": "81.796858",
+				"name": "EESL Mantraly Naya Raipur",
+				"notes": "",
+				"phones": "",
+				"pincode": "492101",
+				"pricing": "free",
+				"state": "Chhattisgarh",
+				"stationid": "92",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [73.8368, 15.5108] },
+			"properties": {
+				"address": "Secretariat Office, Goa",
+				"city": "Goa",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "15.5108",
+				"longitude": "73.8368",
+				"name": "EESL EDC Parking Goa",
+				"notes": "",
+				"phones": "",
+				"pincode": "403521",
+				"pricing": "free",
+				"state": "Goa",
+				"stationid": "94",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.226277, 28.600735]
+			},
+			"properties": {
+				"address": "Prithviraj Market, Rabindra Nagar, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.600735",
+				"longitude": "77.226277",
+				"name": "EESL Prithviraj Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "95",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.217564, 28.588117]
+			},
+			"properties": {
+				"address": "Outside RWA Park, Jor Bagh Market, Jor Bagh Colony Road, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.588117",
+				"longitude": "77.217564",
+				"name": "EESL Jor Bagh Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "96",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.221048, 28.580532]
+			},
+			"properties": {
+				"address": "Opposite Dory Pharmacy, Khanna Market, Aliganj, Lodhi Colony, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.580532",
+				"longitude": "77.221048",
+				"name": "EESL Khanna Market 1",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "97",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.22054, 28.584365]
+			},
+			"properties": {
+				"address": "Opposite Goel Opticals, Khanna Market, Aliganj, Lodhi Colony, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.584365",
+				"longitude": "77.22054",
+				"name": "EESL Khanna Market 2",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "98",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.186432, 28.601809]
+			},
+			"properties": {
+				"address": "Dharma Marg, Block Y, Diplomatic Enclave, Malcha Market, New Delhi- 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.601809",
+				"longitude": "77.186432",
+				"name": "EESL Malcha Marg Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "99",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.222937, 28.632973]
+			},
+			"properties": {
+				"address": "Outside Westend Vedi Tailors, Bock M, Middle Circle, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.632973",
+				"longitude": "77.222937",
+				"name": "EESL M Block",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "100",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.225668, 28.630256]
+			},
+			"properties": {
+				"address": "Near NDMC Office, Fire Brigade Lane, Barakhamba, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.630256",
+				"longitude": "77.225668",
+				"name": "EESL Barakhamba",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "101",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.222937, 28.632973]
+			},
+			"properties": {
+				"address": "Opposite HDFC Bank, M- Block, , Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.632973",
+				"longitude": "77.222937",
+				"name": "EESL Block M, CP",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "102",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.2219, 28.631584]
+			},
+			"properties": {
+				"address": "Outside Oriental Bank, Radial Road No. 7, Block M, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.631584",
+				"longitude": "77.2219",
+				"name": "EESL Oriental Bank",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "103",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.220852, 28.634422]
+			},
+			"properties": {
+				"address": "NDMC Parking, Near Ferns n Petals, Near BPCL Petrol Pump, C Block RR5, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.634422",
+				"longitude": "77.220852",
+				"name": "EESL Ferns n Petals",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "104",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.221038, 28.634388]
+			},
+			"properties": {
+				"address": "NDMC Parking, Near Croma, D Block RR5, Opposite BPCL Petrol Pump, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.634388",
+				"longitude": "77.221038",
+				"name": "EESL Croma",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "105",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.219522, 28.63491]
+			},
+			"properties": {
+				"address": "Next to PVR Plaza, H Block RR4, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.63491",
+				"longitude": "77.219522",
+				"name": "EESL PVR Plaza",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "106",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.2195, 28.634371]
+			},
+			"properties": {
+				"address": "Near Woodland Showroom, Block B, Inner Circle, Connaught Place, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.634371",
+				"longitude": "77.2195",
+				"name": "EESL Block B",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "107",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.2219, 28.631584]
+			},
+			"properties": {
+				"address": "Opposite HP Petrol Pump, Block E, Middle Circle, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.631584",
+				"longitude": "77.2219",
+				"name": "EESL HP Petrol Pump",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "108",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.213718, 28.624419]
+			},
+			"properties": {
+				"address": "Outside Standard Chartered Bank, Sardar Patel Bhawan, Sansad Marg, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.624419",
+				"longitude": "77.213718",
+				"name": "EESL Sansad Marg",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "109",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.217664, 28.633841]
+			},
+			"properties": {
+				"address": "Outside Iqbal Bros., G1, Block G, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.633841",
+				"longitude": "77.217664",
+				"name": "EESL Iqbal Bros.",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "110",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.219286, 28.621724]
+			},
+			"properties": {
+				"address": "Outside Bharat Sanchar Bhawan, Ashoke Road, Janpath, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.621724",
+				"longitude": "77.219286",
+				"name": "EESL Bharat Sanchar Bhawan",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "111",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.231943, 28.626695]
+			},
+			"properties": {
+				"address": "FICCI, FICCI Chowk, Mandi House, Todermal Road Area, Mandi House, New Delhi110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.626695",
+				"longitude": "77.231943",
+				"name": "EESL FICCI Chowk",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "112",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.213919, 28.617517]
+			},
+			"properties": {
+				"address": "Press Club of India, 1, Raisina Road, Windsor Place, New Delhi110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.617517",
+				"longitude": "77.213919",
+				"name": "EESL Press Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "113",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.221078, 28.63388]
+			},
+			"properties": {
+				"address": "Near Snow White, Block D, Inner Circle, Connaught Place, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.63388",
+				"longitude": "77.221078",
+				"name": "EESL Snow White",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "114",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.220382, 28.634137]
+			},
+			"properties": {
+				"address": "Outside Van Heusen Showroom, Block C, Inner Circle, Connaught Place, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.634137",
+				"longitude": "77.220382",
+				"name": "EESL Van Heusen",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "115",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.22353, 28.633733]
+			},
+			"properties": {
+				"address": "Outside Devinder Collections, Shankar Market, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.633733",
+				"longitude": "77.22353",
+				"name": "EESL Shanker Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "116",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.210994, 28.622656]
+			},
+			"properties": {
+				"address": "Akashvani Bhawan, Sansad Marg, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.622656",
+				"longitude": "77.210994",
+				"name": "EESL Akashwani Bhawan",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "117",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21257, 28.61826]
+			},
+			"properties": {
+				"address": "Outside Chelmsford Club/ Opposite CSIR Building, Rafi Marg, Sansad Marg Area, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6182604",
+				"longitude": "77.2125699",
+				"name": "EESL Chelmsford Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "118",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.191634, 28.585492]
+			},
+			"properties": {
+				"address": "Yashwant Place, Chanakyapuri, New Delhi- 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.585492",
+				"longitude": "77.191634",
+				"name": "EESL Yashwant Place",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "119",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.221078, 28.63388]
+			},
+			"properties": {
+				"address": "Opposite IVORY Mart, F Block, Inner Circle, Connaught Place, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.63388",
+				"longitude": "77.221078",
+				"name": "EESL IVORY Mart",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "120",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.191008, 28.585298]
+			},
+			"properties": {
+				"address": "Near Bikanervala, Yashwant Place, Chanakyapuri, New Delhi- 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.585298",
+				"longitude": "77.191008",
+				"name": "EESL Yashwant Place Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "121",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.186432, 28.601809]
+			},
+			"properties": {
+				"address": "Dharma Marg, Block Y, Diplomatic Enclave, Malcha Market, New Delhi- 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.601809",
+				"longitude": "77.186432",
+				"name": "EESL Malcha Marg Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "122",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.209521, 28.577999]
+			},
+			"properties": {
+				"address": "Laxmi Bai Market, Safderjung Flyover, New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.577999",
+				"longitude": "77.209521",
+				"name": "EESL Laxmi Bai Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110023",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "123",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.218068, 28.63242]
+			},
+			"properties": {
+				"address": "Near ICICI Bank/Metro Gate No. 7 & 8, Block A, Inner Circle, Connaught Place, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.63242",
+				"longitude": "77.218068",
+				"name": "EESL Block A",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "124",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.19692, 28.577259]
+			},
+			"properties": {
+				"address": "Sarojini Nagar Market, Sarojini Nagar, New Delhi- 110023",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.577259",
+				"longitude": "77.19692",
+				"name": "EESL Sarojini Nagar Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110023",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "125",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.221654, 28.631121]
+			},
+			"properties": {
+				"address": "Gopal Das Building, Barakhamba Road, Connaught Lane, Barakhamba, New Delhi110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.631121",
+				"longitude": "77.221654",
+				"name": "EESL Gopal Das Building",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "126",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.207691, 28.633614]
+			},
+			"properties": {
+				"address": "Outside Jain Bhawan, 12 Shaheed Bhagat Singh Marg, Gole Market, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.633614",
+				"longitude": "77.207691",
+				"name": "EESL Jain Bhawan",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "127",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.215583, 28.599477]
+			},
+			"properties": {
+				"address": "Side of Hotel Claridges, Tees January Marg, Dr. APJ Abdul Kalam Road, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.599477",
+				"longitude": "77.215583",
+				"name": "EESL Hotel Claridges",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "128",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.215886, 28.631637]
+			},
+			"properties": {
+				"address": "Indian Coffee House, Connaught Place, New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6316372",
+				"longitude": "77.2158857",
+				"name": "EESL Indian Coffee House",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "129",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.226883, 28.600324]
+			},
+			"properties": {
+				"address": "Khan Market, Rabindra Nagar, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.600324",
+				"longitude": "77.226883",
+				"name": "EESL Khan Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "130",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.17755, 28.585367]
+			},
+			"properties": {
+				"address": "Charak Palika Hospital, C7 Lane, Moti Bagh 1, Blok F, New Moti Bagh, New Delhi 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.585367",
+				"longitude": "77.17755",
+				"name": "EESL Charak Palika Hospital",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "131",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.215975, 28.601201]
+			},
+			"properties": {
+				"address": "Hotel Claridges, Tees January Marg, Dr. APJ Abdul Kalam Road, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.601201",
+				"longitude": "77.215975",
+				"name": "EESL Hotel Claridges 1",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "132",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21946, 28.628528]
+			},
+			"properties": {
+				"address": "Janpath Guest House, Connaught Place, New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.628528",
+				"longitude": "77.21946",
+				"name": "EESL Janpath Guest House",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "133",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.226883, 28.600324]
+			},
+			"properties": {
+				"address": "Khan Market, Rabindra Nagar, New Delhi- 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.600324",
+				"longitude": "77.226883",
+				"name": "EESL Khan Market",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "134",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.217683, 28.63407]
+			},
+			"properties": {
+				"address": "Outside UCO Bank, Block H, RR3, Connaught Place, New Delhi",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.63407",
+				"longitude": "77.217683",
+				"name": "EESL Block H",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "135",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.17755, 28.585367]
+			},
+			"properties": {
+				"address": "Charak Palika Hospital, C7 Lane, Moti Bagh 1, Blok F, New Moti Bagh, New Delhi 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.585367",
+				"longitude": "77.17755",
+				"name": "EESL Charak Palika Hospital",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "136",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.221949, 28.63363]
+			},
+			"properties": {
+				"address": "Opposite South Indian Bank, Block E, RR6, Middle Circle, Connaught Place, New Delhi- 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.63363",
+				"longitude": "77.221949",
+				"name": "EESL KTM",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "137",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21257, 28.61826]
+			},
+			"properties": {
+				"address": "Outside Chelmsford Club/ Opposite CSIR Building, Rafi Marg, Sansad Marg Area, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6182604",
+				"longitude": "77.2125699",
+				"name": "EESL Chelmsford Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "138",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21257, 28.61826]
+			},
+			"properties": {
+				"address": "Outside Chelmsford Club/ Opposite CSIR Building, Rafi Marg, Sansad Marg Area, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6182604",
+				"longitude": "77.2125699",
+				"name": "EESL Chelmsford Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "139",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.193352, 28.586638]
+			},
+			"properties": {
+				"address": "PSOI Club, Chanakyapuri, New Delhi 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.586638",
+				"longitude": "77.193352",
+				"name": "EESL PSOI Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "140",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21257, 28.61826]
+			},
+			"properties": {
+				"address": "Outside Chelmsford Club/ Opposite CSIR Building, Rafi Marg, Sansad Marg Area, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6182604",
+				"longitude": "77.2125699",
+				"name": "EESL Chelmsford Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "141",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21257, 28.61826]
+			},
+			"properties": {
+				"address": "Outside Chelmsford Club/ Opposite CSIR Building, Rafi Marg, Sansad Marg Area, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6182604",
+				"longitude": "77.2125699",
+				"name": "EESL Chelmsford Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "142",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.193352, 28.586638]
+			},
+			"properties": {
+				"address": "PSOI Club, Chanakyapuri, New Delhi 110021",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.586638",
+				"longitude": "77.193352",
+				"name": "EESL PSOI Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110021",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "143",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.21257, 28.61826]
+			},
+			"properties": {
+				"address": "Outside Chelmsford Club/ Opposite CSIR Building, Rafi Marg, Sansad Marg Area, New Delhi 110001",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6182604",
+				"longitude": "77.2125699",
+				"name": "EESL Chelmsford Club",
+				"notes": "",
+				"phones": "",
+				"pincode": "110001",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "144",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.220192, 28.590402]
+			},
+			"properties": {
+				"address": "Gate No. 1, Lodhi Garden, Lodhi Estate, Lodhi Road, New Delhi 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.590402",
+				"longitude": "77.220192",
+				"name": "EESL Lodhi Garden",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "145",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.194962, 28.622004]
+			},
+			"properties": {
+				"address": "Talkatora Stadium, President's Estate, New Delhi110004",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.622004",
+				"longitude": "77.194962",
+				"name": "EESL Talkatora Stadium",
+				"notes": "",
+				"phones": "",
+				"pincode": "110004",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "146",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.194962, 28.622004]
+			},
+			"properties": {
+				"address": "Talkatora Stadium, President's Estate, New Delhi110004",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.622004",
+				"longitude": "77.194962",
+				"name": "EESL Talkatora Stadium",
+				"notes": "",
+				"phones": "",
+				"pincode": "110004",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "147",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.217046, 28.6285]
+			},
+			"properties": {
+				"address": "DLF Building, Sansad Marg, Janpath, Connaught Place, New Delhi 110001.",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6285",
+				"longitude": "77.217046",
+				"name": "",
+				"notes": "",
+				"phones": "",
+				"pincode": "110004",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "148",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.195679, 28.623531]
+			},
+			"properties": {
+				"address": "Talkatora Garden, President's Estate, New Delhi110004",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6235305",
+				"longitude": "77.1956795",
+				"name": "EESL Talkatora Garden",
+				"notes": "",
+				"phones": "",
+				"pincode": "110004",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "149",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.195679, 28.623531]
+			},
+			"properties": {
+				"address": "Talkatora Garden, President's Estate, New Delhi110004",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6235305",
+				"longitude": "77.1956795",
+				"name": "EESL Talkatora Garden",
+				"notes": "",
+				"phones": "",
+				"pincode": "110004",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "150",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.208662, 28.572793]
+			},
+			"properties": {
+				"address": "NMDC Parking, Dilli Haat, West Kidwai Nagar, New Delhi 110023",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.572793",
+				"longitude": "77.208662",
+				"name": "EESL Delhi Haat",
+				"notes": "",
+				"phones": "",
+				"pincode": "110023",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "151",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.222057, 28.583518]
+			},
+			"properties": {
+				"address": "Palika Maternity Hospital, Block 11, Lodhi Colony, Near Khanna Market, New Delhi 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.583518",
+				"longitude": "77.222057",
+				"name": "EESL Palika Maternity Hospital",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "152",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.220192, 28.590402]
+			},
+			"properties": {
+				"address": "Gate No. 1, Lodhi Garden, Lodhi Estate, Lodhi Road, New Delhi 110003",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.590402",
+				"longitude": "77.220192",
+				"name": "EESL Lodhi Garden",
+				"notes": "",
+				"phones": "",
+				"pincode": "110003",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "153",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.208662, 28.572793]
+			},
+			"properties": {
+				"address": "NMDC Parking, Dilli Haat, West Kidwai Nagar, New Delhi 110023",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.572793",
+				"longitude": "77.208662",
+				"name": "EESL Delhi Haat",
+				"notes": "",
+				"phones": "",
+				"pincode": "110023",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "154",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.208662, 28.572793]
+			},
+			"properties": {
+				"address": "NMDC Parking, Dilli Haat, West Kidwai Nagar, New Delhi 110023",
+				"city": "Delhi",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.572793",
+				"longitude": "77.208662",
+				"name": "EESL Delhi Haat",
+				"notes": "",
+				"phones": "",
+				"pincode": "110023",
+				"pricing": "free",
+				"state": "Delhi",
+				"stationid": "155",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.313754, 28.584276]
+			},
+			"properties": {
+				"address": "Noida authority parking, near B-14, sector 2 Noida",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.5842756",
+				"longitude": "77.3137535",
+				"name": "EESL Noida Authority Parking Sector 2 Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "156",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.317483, 28.578614]
+			},
+			"properties": {
+				"address": "Noida Authority parking, near A-12, sector 16, noida, Noida G B Nagar",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.578614",
+				"longitude": "77.317483",
+				"name": "EESL Sector 16 Near Metro Station Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "157",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [77.273843, 28.363747]
+			},
+			"properties": {
+				"address": "In front of marie gold exports ltd, A block, sector-64, Noida ",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.36374688",
+				"longitude": "77.27384312",
+				"name": "EESL Marie Gold Exports Block A Sector 64 Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "158",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [77.3814, 28.6132] },
+			"properties": {
+				"address": "In front of Hexagon pvt ltd, sector-65, Noida ",
+				"city": "Noida",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "28.6132",
+				"longitude": "77.3814",
+				"name": "EESL Hexagon Sector 65 Noida",
+				"notes": "",
+				"phones": "",
+				"pincode": "201301",
+				"pricing": "free",
+				"state": "Uttar Pradesh",
+				"stationid": "159",
+				"type": "0"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": { "type": "Point", "coordinates": [73.8139, 15.588] },
+			"properties": {
+				"address": "The Mamlatdar Office, Goa",
+				"city": "Goa",
+				"availability": 1,
+				"contact": "",
+				"isValidated": "1",
+				"issue": 0,
+				"lattitude": "15.588",
+				"longitude": "73.8139",
+				"name": "EESL Mamlatdar Office Mapusa Goa",
+				"notes": "",
+				"phones": "",
+				"pincode": "403406",
+				"pricing": "free",
+				"state": "Goa",
+				"stationid": "160",
+				"type": "0"
+			}
+		}
+	]
+}
